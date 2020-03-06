@@ -1,9 +1,11 @@
 # Proyecto 1 del #JavaScript30 Challenge! 
 
+Se trata del día 1 del [reto de Wes Bos’s #javascript30](https://javascript30.com/) aunque a mí me ha llevado un poco más de tiempo porque quería entender bien cómo se trabaja con audios en HTML, CSS y JavaScript.
+
 ## Demo
 https://sandrusmb.github.io/Drum-Kit/
 
-Se trata del día 1 del [reto de Wes Bos’s #javascript30](https://javascript30.com/) aunque a mí me ha llevado un poco más de tiempo porque quería entender bien cómo se trabaja con audios en HTML, CSS y JavaScript.
+![Demo](https://github.com/sandrusmb/Drum-Kit/blob/master/images/bateria-demo.gif?raw=true)
 
 ## ¿En qué consiste este Drum-Kit?
 
