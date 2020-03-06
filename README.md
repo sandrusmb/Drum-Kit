@@ -13,7 +13,7 @@ Consiste en programar tu propia batería de sonidos y tocarla apretando algunas 
 
 ## ¿Qué he aprendido? + Webgrafía
 
-**¿Qué es la etiqueta de HTML [<kdb></kdb>](https://www.htmlquick.com/es/reference/tags/kbd.html)?** "El elemento kbd representa una entrada del usuario que puede ser hecha por teclado o cualquier otro medio, como mouse, pantalla táctil o comandos de voz".
+**¿Qué es la [kdb](https://www.htmlquick.com/es/reference/tags/kbd.html) etiqueta de HTML?** "El elemento kbd representa una entrada del usuario que puede ser hecha por teclado o cualquier otro medio, como mouse, pantalla táctil o comandos de voz".
 
 **¿Cuándo se produce el evento [Keydown](https://developer.mozilla.org/es/docs/Web/API/Document/keydown_event)?** "El evento keydown es lanzado cuando una tecla es presionada (hacia abajo). A diferencia del evento keypress, el evento keydown es lanzado para las teclas que producen un carácter y también para las que no lo producen".
 
