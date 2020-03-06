@@ -19,7 +19,7 @@ Sintaxis: [atributo] [attributo=value]
 
 [**¿Para qué sirve el Método audio.play()?**](https://www.w3schools.com/jsref/met_audio_play.asp)"El método play() comienza a reproducir el audio actual. Se usa a menudo junto a método pause()
 
-**[La etiqueta audio de HTML]**(https://lenguajehtml.com/p/html/multimedia/etiquetas-html-de-audio)
+**[La etiqueta audio de HTML]**(https://lenguajehtml.com/p/html/multimedia/etiquetas-html-de-audio) "La etiqueta <audio> de HTML5 especifica una forma estándar de incrustar audio en una página web. Se le pueden añadir atributos de controles de audio, como reproducción, pausa y volumen".
 
 **¿Para qué se usa la propiedad de [currentTime](https://www.w3schools.com/jsref/prop_audio_currenttime.asp) del audio?** "La propiedad currentTime establece o devuelve la posición actual (en segundos) de la reproducción de audio. Al configurar esta propiedad, la reproducción saltará a la posición especificada".
 
@@ -32,5 +32,5 @@ Sintaxis: [atributo] [attributo=value]
 
 ##Sígueme en RRSS
 
-[Linkedin](https://www.linkedin.com/in/sandramartinbartolome/)
-[Twitter](https://twitter.com/by_sandrusmb)
+-[Linkedin](https://www.linkedin.com/in/sandramartinbartolome/)
+-[Twitter](https://twitter.com/by_sandrusmb)
